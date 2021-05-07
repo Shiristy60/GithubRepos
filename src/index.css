@@ -1,4 +1,19 @@
 .navbar {
   padding: 20px;
-  background-color: rgb(238, 161, 226)
+  background-color: rgb(233, 224, 222);
+  
+}
+.navbar-brand {
+  color: black;
+}
+
+.repos-form {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
+}
+.no-repos {
+  display: flex;
+  justify-content: center;
+  padding: 20px 0;
 }

@@ -1,5 +1,4 @@
 import React from 'react'
-import './App.css'
 import DisplayRepos from './components/DisplayRepos';
 
 function App() {
